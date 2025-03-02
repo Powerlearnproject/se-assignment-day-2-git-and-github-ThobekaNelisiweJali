@@ -115,7 +115,7 @@ A brief introduction explaining what the project does and its main purpose.
 
 Example 
 
-## Awesome Project
+# Awesome Project
 A simple and efficient tool for managing tasks effortlessly.
 
 2. Installation Instructions
@@ -125,9 +125,9 @@ List dependencies and required software.
 
 Example 
 
-## Installation
+# Installation
 a. Clone the repository:  
-   ```sh
+  
    git clone https://github.com/your-username/awesome-project.git
 
 b. Install dependencies:
@@ -139,9 +139,9 @@ c. Run the application
 3. Usage Guide : Instructions on how to use the software.
    Examples, screenshots, or command-line usage.
 
-   ## Usage
+   # Usage
 To start using the project, run:
-```sh
+
 awesome-tool --help
 
 4. Features
@@ -149,7 +149,7 @@ awesome-tool --help
 A list of key functionalities.
 Example:
 
-## Features
+# Features
 - Task management with reminders
 - Cloud sync support
 - Dark mode option
@@ -160,7 +160,7 @@ How others can contribute, submit bug reports, and request features.
 Include a link to CONTRIBUTING.md if available.
 
 Example
-## Contributing
+# Contributing
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
 
 6. License Information
@@ -168,7 +168,7 @@ Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUT
 Specifies how the project can be used by others.
 Example:
 
-## License
+# License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 7. Contact Information
@@ -176,7 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Maintainers’ names and contact details (e.g., email, social media, website).
 Example:
 
-## Contact
+# Contact
 Maintained by [Your Name](https://yourwebsite.com) - Contact me at [email@example.com](mailto:email@example.com)
 
 8. Acknowledgments (Optional)
@@ -184,7 +184,7 @@ Maintained by [Your Name](https://yourwebsite.com) - Contact me at [email@exampl
 Shoutouts to contributors, third-party tools, or inspirations.
 Example:
 
-## Acknowledgments
+# Acknowledgments
 - Inspired by [Another Project](https://github.com/example).
 
 
@@ -194,7 +194,6 @@ Encourages Contributions: Developers can easily understand how to contribute.
 Minimizes Onboarding Time: New team members can quickly grasp the project structure.
 Standardizes Documentation: Provides a consistent reference for all contributors.
 Builds Community Engagement: Users and contributors feel more inclined to interact with an actively maintained and well-documented project.
-
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
